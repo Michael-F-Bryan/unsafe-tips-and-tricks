@@ -1,4 +1,4 @@
-# unsafe-tips-and-tricks
+# Unsafe Tips and Tricks
 
 [![Build Status](https://travis-ci.com/Michael-F-Bryan/unsafe-tips-and-tricks.svg?branch=master)](https://travis-ci.com/Michael-F-Bryan/unsafe-tips-and-tricks)
 
